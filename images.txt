@@ -1,1 +1,1 @@
-sonarqube
+sonarqube:7.0
